@@ -8,7 +8,7 @@ Time spent: 10 hours spent in total
 Completed user stories:
 <ul>
  <li>Required: User can tap through the 3 welcome screens.</li>
- <li>Required: User can follow the create user flow.<li>
+ <li>Required: User can follow the create user flow.</li>
  <li>Required: User can follow the sign in flow.</li>
  </ul>
  
