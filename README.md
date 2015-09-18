@@ -14,7 +14,7 @@ Completed user stories:
  
 Walkthrough of all user stories:
 
-![Assignment1](https://raw.githubusercontent.com/KayceeACollins/CodePath/master/Assignment1.gif)
+![Assignment1](https://raw.githubusercontent.com/KayceeACollins/Assignment_1/master/Assignment1/Assignment1.gif)
 
 
 
